@@ -5,6 +5,9 @@ This library provides implementations of various sorting algorithms in Rust, inc
 ## Usage
 
 ### Add dependency
+
+![Example Screenshot](screenshots/1.png)
+
 To use this library in your Rust project, add the following to your `Cargo.toml` file:
 
 ```toml
@@ -13,6 +16,9 @@ sorting_w_rust = { git = "https://github.com/asuramaruq/sorting_w_rust.git" }
 ```
 
 ### Usage Example
+
+![Example Screenshot](screenshots/2.png)
+
 
 ```example
 use sorting_w_rust::quick_sort;
@@ -39,3 +45,10 @@ fn main() {
     println!("{:?}", arr);
 }
 ```
+
+### Local Testing
+
+![Example Screenshot](screenshots/3.png)
+
+
+
